@@ -2,8 +2,7 @@
 
 [![GitHub Profile for @fbartho](https://img.shields.io/badge/GitHub-%40fbartho-239a3b.svg)](https://github.com/fbartho)
 [![LinkedIn to fbartho](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/fbartho/)
-![Follow @fbartho@mastodon.social on Mastodon](https://img.shields.io/mastodon/follow/108196760535579897)
-
+[![Follow @fbartho@mastodon.social on Mastodon](https://img.shields.io/mastodon/follow/108196760535579897)](https://mastodon.social/@fbartho)
 
 <a alt="Visit Cooks Atlas" href="https://www.cooksatlas.com"><img alt="Cooks Atlas Logo" src="./CooksAtlas-LogoLockUp.svg" width="100px" align="right" /></a>
 
