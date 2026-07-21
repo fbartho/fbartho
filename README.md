@@ -26,4 +26,3 @@ I believe that the point of tools is to serve people's goals and needs, and so c
 
 - Pronouns: He/Him
 - Timezone: America/Los Angeles
-- Preferred Coding Languages:
