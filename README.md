@@ -6,7 +6,9 @@
 
 <a alt="Visit Cooks Atlas" href="https://www.cooksatlas.com"><img alt="Cooks Atlas Logo" src="./CooksAtlas-LogoLockUp.svg" width="100px" align="right" /></a>
 
-I am the Co-founder & CTO of [Cooks Atlas](https://www.cooksatlas.com/) where we're building a new kind of recipe site & community challenging what it's like to explore food content online.
+## Looking for a new role!
+
+My latest gig was as the Co-founder & CTO of [Cooks Atlas](https://www.cooksatlas.com/) where we were building a new kind of recipe site & community challenging what it's like to explore food content online.
 
 I believe that the point of tools is to serve people's goals and needs, and so centering the people and their challenges is crucial in everything we build in today's world, whether that be products, workflows, or politics.
 
